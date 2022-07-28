@@ -8,9 +8,7 @@
 
 🔥 I'm a young web programmer focused on learning and helping
 
-🔭 I'm looking for a job meanwhile freelance
-
-💬 Ask me about JavaScript, HTML, CSS, React, Node.JS
+💬 Ask me about Java, JavaScript, Typescript, HTML, CSS, React, Node.JS
 
 ⚡ I have fun programming and helping others 🤣😝
 
